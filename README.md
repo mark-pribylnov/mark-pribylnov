@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @mark-pribylnov
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on an open-source project
-- 📫 How to reach me: instagram.com/mark_pribylnov
+
